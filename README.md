@@ -3,7 +3,9 @@
 ![figure1](https://user-images.githubusercontent.com/54786155/207969466-f7fc2743-0e00-49e4-bfc9-2f2a64c3599d.png)
 
 
+This is code for our project: 
 
+Multi-modal SwinBERT: Video Captioning of Social Media Short Videos for Blind People using End-to-End Transformers
 
 
 In this project, we have proposed a Multi-modal video captioning model based on SwinBERT. We have used Video frames and Audio together to get video captions from videos.
