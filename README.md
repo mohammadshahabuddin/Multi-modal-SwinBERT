@@ -23,7 +23,7 @@ https://drive.google.com/file/d/1ew8WeZ18RBFMnrMI2IG1EtvcLWCi14wz/view?usp=shari
 Link2 ( Total 115 videos):
 https://drive.google.com/file/d/18W-7EklFXOzeVchz_WnkSoJX1I7J44Db/view?usp=sharing
 
-For Our project, we have recieved help related to codes from these projects:
+For Our project, we have received help related to codes from these projects:
 1. https://github.com/microsoft/SwinBERT
 2. https://github.com/tylin/coco-caption
 3.https://github.com/salaniz/pycocoevalcap
