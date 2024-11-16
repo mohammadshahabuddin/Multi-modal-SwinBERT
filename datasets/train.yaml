@@ -1,0 +1,4 @@
+img: train.img.tsv
+label: train.label.tsv
+caption: train.caption.tsv
+caption_linelist: train.caption.linelist.tsv
