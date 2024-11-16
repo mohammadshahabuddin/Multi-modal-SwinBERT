@@ -39,7 +39,9 @@ Use the msu.txt file to list the video names. Ensure the corresponding mel-spect
 # This project builds on and integrates components from the following repositories:
 
 [SwinBERT by Microsoft](https://github.com/microsoft/SwinBERT)
+
 [COCO Captioning Tools](https://github.com/tylin/coco-caption)
+
 [PycocoEvalCap](https://github.com/salaniz/pycocoevalcap)
 
 
