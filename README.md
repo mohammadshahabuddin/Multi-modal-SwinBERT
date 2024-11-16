@@ -15,7 +15,7 @@ Download cider and coco_caption folders from this link and place theses folders 
 
 Our code is based on SwinBERT mentioned in https://github.com/microsoft/SwinBERT. Please follow the steps mentioned in this link to download pretrained Video Swin Transformers. We have also followed the data structure of SwinBERT. 
 
-You can generate mel-spectrogram from the videos using this colab notebook:https://colab.research.google.com/drive/1ngaHaEjiufVIdSQfXraMLmjXeC_KnRVH?usp=sharing
+You can generate mel-spectrogram from the videos using this colab notebook:https://github.com/mohammadshahabuddin/Generating-mel-spectrogram-from-the-videos
 
 You can download the dataset used in the experiments from here and place in datasets folder:
 Link1 (Total 35 videos):
