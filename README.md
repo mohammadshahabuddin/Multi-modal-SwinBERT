@@ -1,4 +1,5 @@
 # Multi-modal SwinBERT: Video Captioning of Social Media Short Videos for Blind People using End-to-End Transformers
+### Empowering Accessibility for Blind and Visually Impaired Individuals
 
 ![figure1](https://user-images.githubusercontent.com/54786155/207969466-f7fc2743-0e00-49e4-bfc9-2f2a64c3599d.png)
 
